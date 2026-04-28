@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politique de Confidentialité</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+    h1 { color: #1877f2; }
+  </style>
+</head>
+<body>
+  <h1>Politique de Confidentialité</h1>
+  <p><strong>Dernière mise à jour :</strong> 28 avril 2026</p>
+
+  <h2>1. Collecte des données</h2>
+  <p>Notre application collecte uniquement les données nécessaires à son fonctionnement, conformément aux autorisations accordées par l'utilisateur via Facebook Login.</p>
+
+  <h2>2. Utilisation des données</h2>
+  <p>Les données collectées (nom, email, photo de profil) sont utilisées uniquement pour personnaliser l'expérience utilisateur au sein de l'application. Elles ne sont jamais vendues à des tiers.</p>
+
+  <h2>3. Partage des données</h2>
+  <p>Nous ne partageons vos données avec aucun tiers sans votre consentement explicite.</p>
+
+  <h2>4. Sécurité</h2>
+  <p>Nous mettons en œuvre des mesures de sécurité appropriées pour protéger vos informations personnelles.</p>
+
+  <h2>5. Contact</h2>
+  <p>Pour toute question : <a href="mailto:ton@email.com">ton@email.com</a></p>
+</body>
+</html>
